@@ -1,0 +1,1 @@
+The main goal behind Cython is to make it easier to write C extensions for Python, whether for speed or to author convenient interfaces to C libraries. In many ways Cython 3 cleans up and modernizes Cython. It drops support for the long-obsolete Python 2, adds support for newer Python features (up to Python 3.12), and expands the use of “pure Python mode.”
