@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin:2rem;
+
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #000000; /* Darker blue on hover */
+  }
+  
+.btn:active {
+    background-color: #515151; /* Even darker blue when clicked */
+  }
+
+  
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.yellow{
+    background-color: rgb(255, 182, 104);
+}
+.red{
+    background-color: rgb(187, 0, 255);
+}
+.green{
+    background-color: rgb(51, 183, 183);
+}
+.purple{
+    background-color: rgb(111, 115, 249);
+}
+
+.flash{
+    background-color: white;
+}
